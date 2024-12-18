@@ -27,7 +27,7 @@ public class Ejemplo01 {
         String [][] arregloCadena = {{"Ana", "José", "Pedro"}, 
                                      {"Luis", "María", "Marco"}};
         
-        // forma 3
+        // forma 3 
         int[][] arreglo3 = new int[3][];
         arreglo3[0] = new int[2];
         arreglo3[1] = new int[2];
