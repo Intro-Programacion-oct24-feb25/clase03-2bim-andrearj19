@@ -19,7 +19,7 @@ public class Ejemplo03 {
         
         int[][] arreglo1 = new int[3][10];
         int[] arregloUnidimensional;
-        System.out.printf("Uso de la opción length: %d\n", arreglo1.length);
+        System.out.printf("Uso de la opcion length: %d\n", arreglo1.length);
         
         for (int fila = 0; fila < arreglo1.length; fila++) {
             arregloUnidimensional = arreglo1[fila]; // como obtener el tamaño 
