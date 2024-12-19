@@ -28,10 +28,11 @@ public class Ejemplo04 {
         };
         
         int suma;
+        int sumatotal;
         
         for (int fila = 0; fila < arreglo1.length; fila++) { // 0<2 // 1<2
             suma = 0;
-            int sumatotal = 0;
+            sumatotal = 0;
             for (int col = 0; col < arreglo1[fila].length; col++) { // arreglo1[0].length:3 
                                                                     // 0<3 // 1<3 // 2<3 // 3<3
                 suma = suma + sumatotal + arreglo1[fila][col];
